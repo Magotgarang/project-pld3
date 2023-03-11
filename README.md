@@ -1,7 +1,7 @@
 Readme file for the pld project as part of the negpod project.
 Business Information Portal website
 
-This is a web application built using Python and SQLite, which allows users to access business information through a web interface and it is. This README file provides instructions on how to set up and use the application.
+This is a web application built using Python and SQLite, which allows users to access business information through a web interface and it is easy. This README file provides instructions on how to set up and use the application.
 
 Installation
 Clone the repository to your local machine:
